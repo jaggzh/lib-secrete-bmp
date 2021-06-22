@@ -10,3 +10,7 @@ I modified it to accept callback routines for part-by-part output.
 
 1. Copy libsecretebmp.c and .h to your project.
 2. Use test.c as an example with its callbacks.
+
+## Known issues
+
+1. I don't compile to a lib currently.
